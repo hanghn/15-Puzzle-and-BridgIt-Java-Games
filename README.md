@@ -1,7 +1,7 @@
 # CS2510-Project
 These two game projects were collaboratively developed by Gavin Bond and myself as part of our CS2510 Fundamentals of Computer Science 2 course.
 
-15-Puzzle Game:
+Fifteen Game:
 - Overview: A simple implementation of the classic sliding puzzle game known as the "15-puzzle" where players slide puzzles on a 4x4 grid with 15 numbered tiles and one empty space.
 - Objective: Arrange the tiles in numerical order from 1 to 15, with the empty space in the bottom-right corner.
 - Gameplay: Tiles can be moved by sliding them into the empty space, either up, down, left, or right.
