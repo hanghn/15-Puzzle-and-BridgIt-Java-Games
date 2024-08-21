@@ -1,5 +1,5 @@
 # CS2510-Project
-These two game projects were collaboratively developed by Gavin Bond and myself as part of our CS2510 Fundamentals of Computer Science 2 course.
+These two game projects were collaboratively developed by Gavin Bond (bond.g@northeastern.edu) and myself (hang.h@northeastern.edu) as part of our CS2510 Fundamentals of Computer Science 2 course.
 
 Fifteen Game:
 - Overview: A simple implementation of the classic sliding puzzle game known as the "15-puzzle" where players slide puzzles on a 4x4 grid with 15 numbered tiles and one empty space.
