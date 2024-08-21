@@ -1,11 +1,15 @@
 # CS2510-Project
-This is the game that I designed alongside Gavin Bond, my CS2510 Fundamentals of Computer Science 2 project partner.
+These two game projects were collaboratively developed by Gavin Bond and myself as part of our CS2510 Fundamentals of Computer Science 2 course.
 
-This fifteen game is a simple implementation of the classic sliding puzzle game known as the "15-puzzle." Here's an overview of how the game works and what each part of the code does:
+15-Puzzle Game:
+Overview: A simple implementation of the classic sliding puzzle game known as the "15-puzzle" where players slide puzzles on a 4x4 grid with 15 numbered tiles and one empty space.
+Objective: Arrange the tiles in numerical order from 1 to 15, with the empty space in the bottom-right corner.
+Gameplay: Tiles can be moved by sliding them into the empty space, either up, down, left, or right.
 
-Overview:
-- The 15-puzzle is played on a 4x4 grid (a total of 16 squares).
-- It consists of 15 numbered tiles (1 through 15) and one empty space.
-- The tiles are randomly placed on the grid, and the goal of the game is to arrange the tiles in ascending order from 1 to 15, with the empty space in the bottom-right corner.
-- You can move the tiles by sliding them into the empty space, either up, down, left, or right.
-
+BridgIt Game:
+Overview: A two-player grid-based game where players create a path of their color.
+Components:
+Cell: Represents a square on the board with a color and neighbors.
+Stack: Used in depth-first search (DFS) to find paths.
+BridgItGame: Manages the board, player turns, and win conditions.
+Gameplay: Players take turns clicking cells to form a continuous path. The game checks for a winning path after each turn.
