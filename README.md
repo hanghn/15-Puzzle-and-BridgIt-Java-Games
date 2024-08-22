@@ -8,6 +8,7 @@ Fifteen Game:
 
 BridgIt Game:
 - Overview: A two-player grid-based game where players create a path of their color.
+
 Components:
 - Cell: Represents a square on the board with a color and neighbors.
 - Stack: Used in depth-first search (DFS) to find paths.
