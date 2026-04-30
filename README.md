@@ -2,7 +2,7 @@
 
 Two interactive Java game implementations built for **CS 2510 (Fundamentals of Computer Science 2)** at Northeastern University, Fall 2023.
 
-**Collaborators:** Hang Hang ([hang.h@northeastern.edu](mailto:hang.h@northeastern.edu)) and Gavin Bond ([bond.g@northeastern.edu](mailto:bond.g@northeastern.edu))
+**Collaborators:** Gavin Bond ([bond.g@northeastern.edu](mailto:bond.g@northeastern.edu)) and Hang Hang ([hang.h@northeastern.edu](mailto:hang.h@northeastern.edu))
 
 ## Projects
 
