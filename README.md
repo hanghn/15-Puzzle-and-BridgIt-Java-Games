@@ -37,6 +37,10 @@ A turn-based grid game where two players (Pink and Magenta) alternate placing pi
 
 **File:** [`BridgIt`](./BridgIt)
 
+<img width="552" height="579" alt="Screenshot 2026-04-30 at 8 12 32 PM" src="https://github.com/user-attachments/assets/dc502ace-bb67-4067-a752-25bceef3abd1" />
+Example game state: End of game. Player 2 (magenta) wins by completing an unbroken top-to-bottom chain. The game's DFS path-detection over the cell graph automatically    
+declared the win after the final move. 
+
 ## Tech stack
 
 - **Java** (OOP-focused)
