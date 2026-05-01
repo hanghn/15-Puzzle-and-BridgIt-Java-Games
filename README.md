@@ -23,6 +23,8 @@ Mid-game state of the 15-puzzle. Orange tiles (3, 7, 10, 15) are in their correc
 its goal corner.  
 
 
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 ### 🌉 BridgIt (Two-Player Path Game)
 
 A turn-based grid game where two players (Pink and Magenta) alternate placing pieces, each trying to build an unbroken chain of their color from one side of the board to the opposite side. The first player to complete an end-to-end path wins.
