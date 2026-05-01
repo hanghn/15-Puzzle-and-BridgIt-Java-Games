@@ -57,6 +57,4 @@ declared the win after the final move.
 
 ## Course context
 
-CS 2510 — Fundamentals of Computer Science 2 · Khoury College of Computer Sciences, Northeastern University · Fall 2023
-
 The course centers on **the design recipe**, **OOP**, **abstract data types**, and **algorithmic problem solving** in Java.
