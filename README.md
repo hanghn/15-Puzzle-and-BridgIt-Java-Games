@@ -18,6 +18,9 @@ A classic implementation of the **15-puzzle**: a 4×4 grid with 15 numbered tile
 
 **Source:** [`fifteen-game/Fifteen.java`](./fifteen-game/Fifteen.java) · **Launcher:** [`fifteen-game/Launcher.java`](./fifteen-game/Launcher.java)
 
+<img width="399" height="428" alt="Screenshot 2026-04-30 at 8 43 26 PM" src="https://github.com/user-attachments/assets/c09f3412-d101-46a7-a608-18d8dca7192f" />
+Example game state: mid-game with tiles 1, 2, 3, 10, 14 (orange tiles) in the correct places. 
+
 ### 🌉 BridgIt (Two-Player Path Game)
 
 A turn-based grid game where two players (Pink and Magenta) alternate placing pieces, each trying to build an unbroken chain of their color from one side of the board to the opposite side. The first player to complete an end-to-end path wins.
