@@ -18,6 +18,11 @@ A classic implementation of the **15-puzzle**: a 4×4 grid with 15 numbered tile
 
 **File:** [`15_Game`](./15_Game)
 
+<img width="401" height="429" alt="Screenshot 2026-04-30 at 8 05 36 PM" src="https://github.com/user-attachments/assets/571dc764-349c-4966-979a-45efeebbd53f" />
+Mid-game state of the 15-puzzle. Orange tiles (3, 7, 10, 15) are in their correct positions. The empty space (bottom-right) has reached
+its goal corner.  
+
+
 ### 🌉 BridgIt (Two-Player Path Game)
 
 A turn-based grid game where two players (Pink and Magenta) alternate placing pieces, each trying to build an unbroken chain of their color from one side of the board to the opposite side. The first player to complete an end-to-end path wins.
