@@ -70,7 +70,7 @@ Requires **Java 11+** (tested with Java 21) and the course-distributed `javalib.
 - [`javalib.impworld`](https://course.ccs.neu.edu/cs2510/) — Northeastern's interactive game/animation library (used for the windowed UI and event handling)
 - [`tester`](https://course.ccs.neu.edu/cs2510/) — Northeastern's unit-testing framework
 
-## OOP concepts demonstrated
+## OOP concepts included
 
 - **Interfaces and polymorphism** — `ICollection<T>` interface with `Stack<T>` implementation
 - **Generics** — type-parameterized collections
@@ -79,7 +79,5 @@ Requires **Java 11+** (tested with Java 21) and the course-distributed `javalib.
 - **Algorithm integration** — DFS over a graph of cells for win-condition detection
 
 ## Course context
-
-CS 2510 — Fundamentals of Computer Science 2 · Khoury College of Computer Sciences, Northeastern University · Fall 2023
 
 The course centers on **the design recipe**, **OOP**, **abstract data types**, and **algorithmic problem solving** in Java.
