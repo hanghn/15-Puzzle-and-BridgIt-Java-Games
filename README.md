@@ -19,6 +19,7 @@ A classic implementation of the **15-puzzle**: a 4×4 grid with 15 numbered tile
 **Source:** [`fifteen-game/Fifteen.java`](./fifteen-game/Fifteen.java) · **Launcher:** [`fifteen-game/Launcher.java`](./fifteen-game/Launcher.java)
 
 <img width="399" height="428" alt="Screenshot 2026-04-30 at 8 43 26 PM" src="https://github.com/user-attachments/assets/c09f3412-d101-46a7-a608-18d8dca7192f" />
+
 Example game state: mid-game with tiles 1, 2, 3, 10, 14 (orange tiles) in the correct places. 
 
 
@@ -38,6 +39,7 @@ A turn-based grid game where two players (Pink and Magenta) alternate placing pi
 **Source:** [`bridgit/BridgIt.java`](./bridgit/BridgIt.java) · **Launcher:** [`bridgit/Launcher.java`](./bridgit/Launcher.java)
 
 <img width="549" height="579" alt="Screenshot 2026-04-30 at 8 47 56 PM" src="https://github.com/user-attachments/assets/c0011701-3f4d-482f-847a-9b6a681aabc0" />
+
 Example game state: End of game. Player 1 (pink) connects left edge to right edge for the win. DFS-based path detection ends the game.
 
 
