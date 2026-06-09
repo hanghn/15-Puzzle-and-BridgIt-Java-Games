@@ -1,6 +1,6 @@
 # CS 2510 — Java Game Projects
 
-Two simple Java game implementations built for **CS 2510 (Fundamentals of Computer Science 2)**.
+Two simple Java game implementations.
 
 **Collaborators:** Gavin Bond ([bond.g@northeastern.edu](mailto:bond.g@northeastern.edu)) and Hang Hang ([hang.h@northeastern.edu](mailto:hang.h@northeastern.edu))
 
