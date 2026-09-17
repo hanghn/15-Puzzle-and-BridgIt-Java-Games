@@ -1,4 +1,4 @@
-# CS 2510 — Java Game Projects
+# Two Little Java Games
 
 Two simple Java game implementations.
 
